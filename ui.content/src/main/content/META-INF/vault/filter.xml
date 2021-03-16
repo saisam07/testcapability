@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/practiceCapability" mode="merge"/>
+    <filter root="/content/practiceCapability" mode="merge"/>
+    <filter root="/content/dam/practiceCapability" mode="merge"/>
+</workspaceFilter>

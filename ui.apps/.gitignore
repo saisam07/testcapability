@@ -1,0 +1,5 @@
+# Created by https://www.gitignore.io/api/eclipse,java,maven
+
+src/main/content/jcr_root/apps/practiceCapability/clientlibs/clientlib-site
+src/main/content/jcr_root/apps/practiceCapability/clientlibs/clientlib-dependencies
+/target/
